@@ -68,6 +68,7 @@ dependencies {
     implementation "androidx.appcompat:appcompat:$appCompat"
     implementation "androidx.core:core-ktx:$androidCore"
     implementation "com.google.android.material:material:$androidMaterial"
+    implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
 
 
 }
